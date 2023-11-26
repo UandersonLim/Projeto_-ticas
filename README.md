@@ -1,8 +1,22 @@
-# React + Vite
+# Ótica
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Criei, esse projeto, com intuito de melhorar minhas habilidades com Reacj JS.
+- Não tive, nenhuma dificuldade. Pois eu já tenho uma grande noção de HTML, CSS e JavaScript.
 
-Currently, two official plugins are available:
+# Ferramentas utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React JS
+- Styled-components
+
+- O site, se encontra responsivo, e pronto para ser utilizado.
+- Abaixo, irei disponibilizar um Gif do site, e o link para acesso.
+
+<html>
+    <div>
+        <a href="https://projeto-react-otica.vercel.app/">
+            <img src="./README/Gif-Loja.gif" alt="Site_Ótica" title="Site_Ótica"/>
+        </a>
+    </div>
+</html>
+
+- Link: https://projeto-react-otica.vercel.app/
