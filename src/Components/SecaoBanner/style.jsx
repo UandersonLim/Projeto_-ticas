@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 const Container = styled.section`
-  background-image: url("./public/assets/imagens/capa.png");
+  background-image: url("assets/imagens/capa.png");
   background-size: cover;
   background-repeat: no-repeat;
   height: 80vh;
