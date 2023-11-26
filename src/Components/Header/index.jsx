@@ -4,7 +4,7 @@ function HeaderPage() {
   return (
     <Container>
       <figure>
-        <img src="../public/assets/imagens/logo.png" alt="Logo" />
+        <img src="assets/imagens/logo.png" alt="Logo" title="Logo"/>
       </figure>
       <div className="border_responsive"></div>
 
