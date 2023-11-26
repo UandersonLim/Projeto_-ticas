@@ -17,21 +17,21 @@ function Contatos() {
           <ul>
             <li>
               <img
-                src="./public/assets/imagens/local.png"
+                src="assets/imagens/local.png" alt="Local" title="Local"
                 className="Social_image"
               />
               <span>Nova Iguaçu, JS</span>
             </li>
             <li>
               <img
-                src="./public/assets/imagens/telefone.png"
+                src="assets/imagens/telefone.png" alt="Telefone" title="Telefone"
                 className="Social_image"
               />
               <span>(21) 9999-9999</span>
             </li>
             <li>
               <img
-                src="./public/assets/imagens/email.png"
+                src="assets/imagens/email.png" title="email" alt="email"
                 className="Social_image"
               />
               <span>contato@otivavida.com</span>
@@ -43,21 +43,21 @@ function Contatos() {
           <ul>
             <li>
               <img
-                src="./public/assets/imagens/fb.png"
+                src="assets/imagens/fb.png" alt="facebook" title="facebook"
                 className="Social_image"
               />{" "}
               <span>/oticaVida</span>
             </li>
             <li>
               <img
-                src="./public/assets/imagens/ig.png"
+                src="assets/imagens/ig.png" alt="Instagram" title="Instagram"
                 className="Social_image"
               />{" "}
               <span>@oticaVida</span>
             </li>
             <li>
               <img
-                src="./public/assets/imagens/tt.png"
+                src="assets/imagens/tt.png" alt="Twiter" title="Twiter"
                 className="Social_image"
               />{" "}
               <span>@oticaVida</span>

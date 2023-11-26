@@ -18,7 +18,7 @@ function Produtos() {
           <h3>Óculos de grau</h3>
           <figure>
             <img
-              src="./public/assets/imagens/oculos01.png"
+              src="assets/imagens/oculos01.png"
               alt="Óculos"
               title="Óculos de grau"
             />
@@ -30,7 +30,7 @@ function Produtos() {
           <h3>Óculos trasition</h3>
           <figure>
             <img
-              src="./public/assets/imagens/oculos02.png"
+              src="assets/imagens/oculos02.png"
               alt="Óculos trasition"
               title="Óculos trasition"
             />
@@ -42,7 +42,7 @@ function Produtos() {
           <h3>Óculos de sol</h3>
           <figure>
             <img
-              src="./public/assets/imagens/oculos03.png"
+              src="assets/imagens/oculos03.png"
               alt="Óculos de sol"
               title="Óculos de sol"
               className="oculos_sol"
@@ -55,7 +55,7 @@ function Produtos() {
           <h3>Óculos infantil</h3>
           <figure>
             <img
-              src="./public/assets/imagens/oculos04.png"
+              src="assets/imagens/oculos04.png"
               alt="Óculos infantil"
               title="Óculos infantil"
             />

@@ -15,7 +15,7 @@ function InformacoesDaEmpresa() {
       <Container_Cards>
         <Card>
           <figure>
-            <img src="./public/assets/imagens/loja.png" />
+            <img src="assets/imagens/loja.png" alt="Loja" title="Loja"/>
           </figure>
         </Card>
         <Card>
@@ -32,7 +32,7 @@ function InformacoesDaEmpresa() {
         <Card>
           <figure>
             <img
-              src="./public/assets/imagens/atendimento.png"
+              src="assets/imagens/atendimento.png"
               alt="atendimento"
               title="atendimento"
             />
