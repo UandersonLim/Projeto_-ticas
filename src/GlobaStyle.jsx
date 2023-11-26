@@ -12,6 +12,7 @@ const GlobalStyle = createGlobalStyle`
 
     body {
         max-width: 1920px;
+        overflow-x: hidden;
     }
 `;
 

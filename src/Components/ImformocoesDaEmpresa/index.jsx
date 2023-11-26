@@ -7,8 +7,8 @@ function InformacoesDaEmpresa() {
         <h1>QUEM SOMOS NÓS?</h1>
         <p>
           Fundada em 2001, em Nova Iguacu - Rio de Janeiro, a Óticas vidas
-          iniciou suas atividades focada no atendimento a o público de<br></br> renda
-          mais baixa, sempre com o objetivo de proporcionar ao cliente bom
+          iniciou suas atividades focada no atendimento a o público de<br></br>{" "}
+          renda mais baixa, sempre com o objetivo de proporcionar ao cliente bom
           atendimento, qualidade e preço baixo.
         </p>
       </div>
@@ -19,11 +19,14 @@ function InformacoesDaEmpresa() {
           </figure>
         </Card>
         <Card>
-          <h3>Nossa Filiais</h3>
+          <h3>Nossas Filiais</h3>
           <p>Hoje temos mais de 20 filiais pelo Brasil e na América</p>
         </Card>
         <Card>
-          <h3>Atendimento <br></br>flexível</h3>
+          <h3 className="remove_responsive">
+            Atendimento<br></br> flexível
+          </h3>
+          <h3 className="display_none">Atendimento flexível</h3>
           <p>Nossa equipe possui é treinada para te atender</p>
         </Card>
         <Card>

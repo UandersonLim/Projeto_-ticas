@@ -7,6 +7,10 @@ const Container = styled.section`
   justify-content: center;
   align-items: center;
 
+  .Our-products{
+    width: 100%;
+  }
+
   .Our-products h3 {
     font-size: 2rem;
     margin: 5rem 0 1rem 0;
@@ -14,14 +18,21 @@ const Container = styled.section`
     text-transform: uppercase;
   }
 
-  p {
-    font-size: 1.5rem;
+  .Our-products p {
+    font-size: 1.3rem;
     text-align: center;
     line-height: 3rem;
+    padding: 0 10rem;
   }
   figure img {
     width: 300px;
     margin: 2rem 0;
+  }
+
+  @media(max-width: 550px){
+    .Our-products p{
+      padding: 0 1rem;
+    }
   }
 
 `;
@@ -60,7 +71,9 @@ const Box_products = styled.div`
     width: 220px;
   }
 
-  
+  /* RESPONSIVE */
+
+
 
 `;
 
